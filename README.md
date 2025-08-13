@@ -121,3 +121,9 @@ If you use the dataset or code provided in this work, please cite us:
   year={2024}
 }
 ```
+
+## License
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You are free to share and adapt the data for any purpose, provided you give appropriate credit.
+See the LICENSE file for full details.
+
