@@ -113,5 +113,11 @@ python train_detection.py --arm p --name test --split 1 --gpu 0
 ## Citation
 If you use the dataset or code provided in this work, please cite us:
 ```
-TBD
+@inproceedings{park2024silent,
+  title={Silent Impact: Tracking Tennis Shots from the Passive Arm},
+  author={Park, Junyong and Yang, Saelyne and Jo, Sungho},
+  booktitle={Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--15},
+  year={2024}
+}
 ```
